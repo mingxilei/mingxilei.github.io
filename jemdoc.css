@@ -377,6 +377,9 @@ table.imgtable, table.imgtable td {
 
 span.badge {
 	display: inline-block;
+	width: 100%;
+	box-sizing: border-box;
+	text-align: center;
 	background-color: #224b8d;
 	color: white;
 	padding: 4px 8px;
