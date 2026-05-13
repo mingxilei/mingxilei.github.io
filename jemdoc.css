@@ -376,6 +376,7 @@ table.imgtable, table.imgtable td {
 }
 
 span.badge {
+	white-space: nowrap;
 	display: inline-block;
 	background-color: #224b8d;
 	color: white;
@@ -396,11 +397,12 @@ div.pub-row {
   display: flex;
   align-items: flex-start;
   margin-bottom: 0.9em;
-  gap: 0;
+  gap: 0.8em;
 }
 
 div.pub-badge {
-  flex: 0 0 90px;       /* fixed badge column width */
+  flex: 0 0 auto;       /* shrink/grow off — size to content */
+  min-width: 90px;      /* short badges still get some width */
   padding-top: 2px;
 }
 
