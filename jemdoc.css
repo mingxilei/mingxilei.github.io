@@ -400,8 +400,8 @@ div.pub-row {
 }
 
 div.pub-badge {
-  flex: 0 0 110px;      /* fixed width for all badges */
-  width: 110px;
+  flex: 0 0 130px;      /* fixed width for all badges */
+  width: 130px;
   padding-top: 2px;
 }
 
