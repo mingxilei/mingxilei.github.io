@@ -376,8 +376,11 @@ table.imgtable, table.imgtable td {
 }
 
 span.badge {
-	white-space: nowrap;
+	white-space: normal;  /* allow wrapping for long names */
 	display: inline-block;
+	width: 100%;
+	box-sizing: border-box;
+	text-align: center;
 	background-color: #224b8d;
 	color: white;
 	padding: 4px 8px;
