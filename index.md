@@ -33,6 +33,12 @@ layout: homepage
 	<li>ECE Outstanding Academic Achievement Award, Ming Hsieh Department of Electrical and Computer Engineering, USC 2021</li>
 
 </ul>
+<h2 id="talks">Talks</h2>
+<ul>
+	<li>Agentic AI for Healthcare - Department of Computer Science and Engineering, The State University of New York at Buffalo, Feb 2026</li>
+	<li>Robustness, Data Safety and Privacy in Trustworthy AI - Bosch Center for Artificial Intelligence, Aug 2026</li>
+</ul>
+
 <h2 id="teaching">Teaching</h2>
 <ul>
 	<li>CSE 676 Deep Learning, Spring 2023</li>
