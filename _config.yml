@@ -1,0 +1,19 @@
+title: Mingxi Lei
+pronunciation: Ming SHEE Lei
+avatar: ./assets/img/avatar-outdoor.jpg
+position: Ph.D. in Computer Science
+location: New York, New York
+email: eemingxilei [at] gmail [dot] com
+keywords: Mingxi Lei, machine learning, large language models
+description: Mingxi Lei is a Research Scientist at Layer 6 AI. Research in large language models and trustworthy machine learning.
+canonical: https://mingxilei.github.io/
+github_link: https://github.com/mingxilei
+linkedin: https://www.linkedin.com/in/mingxi-lei/
+twitter: https://twitter.com/lei_mingxi
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE

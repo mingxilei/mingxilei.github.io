@@ -1,0 +1,141 @@
+{
+  "main": [
+    {
+      "title": "Toward AI Agents for Intelligent Voice-Driven Interaction in a Home-based Stroke Rehabilitation System.",
+      "authors": "<strong>Mingxi Lei</strong>, et.al.",
+      "conference_short": "Preprint",
+      "conference": "Preprint 2026.",
+      "links": []
+    },
+    {
+      "title": "Differentially Private Sparse Reward Estimation with Preference Feedback.",
+      "authors": "Meng Ding, <strong>Mingxi Lei</strong>, Jie Zhang, Jinyan Liu, Di Wang.",
+      "conference_short": "NeurIPS",
+      "conference": "NeurIPS 2026.",
+      "links": [
+        {
+          "label": "ArXiv",
+          "url": "https://mingxilei.github.io/"
+        }
+      ],
+      "pdf": "https://mingxilei.github.io/"
+    },
+    {
+      "title": "Understanding Private Learning From Feature Perspective.",
+      "authors": "Meng Ding, <strong>Mingxi Lei</strong>, Shaopeng Fu, Shaowei Wang, Di Wang, Jinhui Xu.",
+      "conference_short": "ICML",
+      "conference": "ICML 2026.",
+      "links": [
+        {
+          "label": "ArXiv",
+          "url": "https://arxiv.org/pdf/2511.18006"
+        }
+      ],
+      "pdf": "https://arxiv.org/pdf/2511.18006"
+    },
+    {
+      "title": "Towards User-level Private Reinforcement Learning with Human Feedback.",
+      "authors": "Jiaming Zhang*, <strong>Mingxi Lei</strong>*, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu, Jinhui Xu, Di Wang.",
+      "conference_short": "COLM",
+      "conference": "COLM 2025.",
+      "links": [
+        {
+          "label": "ArXiv",
+          "url": "https://arxiv.org/pdf/2502.17515"
+        }
+      ],
+      "pdf": "https://arxiv.org/pdf/2502.17515"
+    },
+    {
+      "title": "TTVD: Towards a Geometric Framework for Test-Time Adaptation Based on Voronoi Diagram.",
+      "authors": "<strong>Mingxi Lei</strong>, Chunwei Ma, Meng Ding, Yufan Zhou, Ziyun Huang, Jinhui Xu.",
+      "conference_short": "ICLR",
+      "conference": "ICLR 2025.",
+      "links": [
+        {
+          "label": "OpenReview",
+          "url": "https://openreview.net/forum?id=5sU32OCxgZ"
+        }
+      ],
+      "pdf": "https://openreview.net/forum?id=5sU32OCxgZ"
+    },
+    {
+      "title": "Nearly Optimal Differentially Private ReLU Regression.",
+      "authors": "Meng Ding, <strong>Mingxi Lei</strong>, Shaowei Wang, Tianhang Zheng, Di Wang, Jinhui Xu.",
+      "conference_short": "UAI",
+      "conference": "UAI 2025.",
+      "links": [
+        {
+          "label": "ArXiv",
+          "url": "https://arxiv.org/abs/2503.06009"
+        }
+      ],
+      "pdf": "https://arxiv.org/abs/2503.06009"
+    },
+    {
+      "title": "Improved Rates of Differentially Private Nonconvex-Strongly-Concave Minimax Optimization.",
+      "authors": "Ruijia Zhang*, <strong>Mingxi Lei</strong>*, Meng Ding, Zihang Xiang, Jinhui Xu, Di Wang.",
+      "conference_short": "AAAI",
+      "conference": "AAAI 2025.",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/mingxilei/PrivateDiff-Minimax"
+        }
+      ],
+      "pdf": "https://github.com/mingxilei/PrivateDiff-Minimax"
+    },
+    {
+      "title": "Revisiting Differentially Private ReLU Regression.",
+      "authors": "Meng Ding, <strong>Mingxi Lei</strong>, Liyang Zhu, Shaowei Wang, Di Wang, Jinhui Xu.",
+      "conference_short": "NeurIPS",
+      "conference": "NeurIPS 2024.",
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://openreview.net/pdf?id=3uUIwMxYbR"
+        }
+      ],
+      "pdf": "https://openreview.net/pdf?id=3uUIwMxYbR"
+    },
+    {
+      "title": "Unifying Domain Gap in Federated Learning: a Geometric Approach.",
+      "authors": "<strong>Mingxi Lei</strong>, Meng Ding, Chunwei Ma, Ziyun Huang, Mingchen Gao, Jinhui Xu.",
+      "conference_short": "Neurocomputing",
+      "conference": "Neurocomputing 2024 (Impact Factor: 5.5).",
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://doi.org/10.1016/j.neucom.2024.128813"
+        }
+      ],
+      "pdf": "https://doi.org/10.1016/j.neucom.2024.128813"
+    },
+    {
+      "title": "Wavelet-Based CNN for Predicting PAP Adherence Using Overnight Polysomnography Recordings: A Pilot Study.",
+      "authors": "<strong>Mingxi Lei</strong>, Tom Maxim, Edwin Valladares, Eric Kezirian, Keith Jenkins.",
+      "conference_short": "EMBC",
+      "conference": "EMBC 2021.",
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9630209"
+        }
+      ],
+      "pdf": "https://ieeexplore.ieee.org/abstract/document/9630209"
+    },
+    {
+      "title": "Benchmarking Various Radiomic Toolkit Features While Applying the Image Biomarker Standardization Initiative toward Clinical Translation of Radiomic Analysis.",
+      "authors": "<strong>Mingxi Lei</strong>*, Bino Varghese*, Darryl Hwang, Steven Cen, Xiaomeng Lei, Bhushan Desai, Afshin Azadikhah, Assad Oberai, Vinay Duddalwar.",
+      "conference_short": "Journal of Digital Imaging",
+      "conference": "Journal of Digital Imaging 2021 (Impact Factor: 4.4).",
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://link.springer.com/article/10.1007/s10278-021-00506-6"
+        }
+      ],
+      "pdf": "https://link.springer.com/article/10.1007/s10278-021-00506-6"
+    }
+  ]
+}
